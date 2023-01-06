@@ -1,0 +1,1350 @@
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportSource.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.Shared.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\stdole.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojResolveAssemblyReference.cache
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+D:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+E:\BALA\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+E:\BALA\PawanHans\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EnvDTE.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\stdole.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.VSHelp.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EnvDTE80.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Tasks.Core.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Services.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Core.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj80.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Threading.Tasks.Dataflow.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.GraphModel.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.MSXML.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Utilities.Core.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Framework.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj2.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.pdb
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+E:\Prajkta\live projects\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EnvDTE.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\stdole.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EnvDTE80.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Tasks.Core.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj80.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Threading.Tasks.Dataflow.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.MSXML.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Utilities.Core.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Framework.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\VSLangProj2.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.pdb
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Quartz.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\Live Project\mexpress\OnGoing  Billing\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\PagedList.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Quartz.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EnvDTE.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\stdole.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EnvDTE80.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Tasks.Core.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\VSLangProj.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\VSLangProj80.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Threading.Tasks.Dataflow.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.MSXML.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Utilities.Core.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Framework.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\VSLangProj2.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\PagedList.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Quartz.pdb
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Quartz.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\live projects\veerexpress\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ApplicationInsights.config
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll.config
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\DtDc Billing.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\DtDc Billing.pdb
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EntityFramework.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EPPlus.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Ionic.Zip.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\PagedList.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Quartz.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Http.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Razor.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\WebGrease.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EnvDTE.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\stdole.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EnvDTE80.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Tasks.Core.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\VSLangProj.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\VSLangProj80.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Threading.Tasks.Dataflow.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.MSXML.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Utilities.Core.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.Build.Framework.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\VSLangProj2.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EntityFramework.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\EPPlus.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\PagedList.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\PagedList.Mvc.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Quartz.pdb
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Quartz.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Http.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Http.WebHost.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Helpers.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Mvc.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Optimization.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.Razor.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csprojAssemblyReference.cache
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\RdlCompile.cache
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\RdlCompile.compiled
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\live projects\Infantjesussolutions\DtDc Billing\DtDc Billing\obj\Release\DtDc Billing.pdb
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\DtDc Billing.dll.config
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\DtDc Billing.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\DtDc Billing.pdb
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EPPlus.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Ionic.Zip.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\PagedList.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Quartz.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\WebGrease.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EnvDTE.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\stdole.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\EPPlus.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\PagedList.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Quartz.pdb
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Quartz.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\obj\Release\DtDc Billing.dll
+C:\Users\Admin\Downloads\DTDC\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\DTDC\DtDc Billing\bin\ApplicationInsights.config
+D:\DTDC\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+D:\DTDC\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DTDC\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+D:\DTDC\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DTDC\DtDc Billing\bin\DtDc Billing.dll.config
+D:\DTDC\DtDc Billing\bin\DtDc Billing.dll
+D:\DTDC\DtDc Billing\bin\DtDc Billing.pdb
+D:\DTDC\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\DTDC\DtDc Billing\bin\EntityFramework.dll
+D:\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\DTDC\DtDc Billing\bin\EPPlus.dll
+D:\DTDC\DtDc Billing\bin\Ionic.Zip.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\DTDC\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\DTDC\DtDc Billing\bin\PagedList.dll
+D:\DTDC\DtDc Billing\bin\PagedList.Mvc.dll
+D:\DTDC\DtDc Billing\bin\Quartz.dll
+D:\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Helpers.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Http.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Mvc.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Optimization.dll
+D:\DTDC\DtDc Billing\bin\System.Web.Razor.dll
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.dll
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\DTDC\DtDc Billing\bin\WebGrease.dll
+D:\DTDC\DtDc Billing\bin\EnvDTE.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DTDC\DtDc Billing\bin\stdole.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DTDC\DtDc Billing\bin\Microsoft.MSXML.dll
+D:\DTDC\DtDc Billing\bin\EntityFramework.xml
+D:\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\DTDC\DtDc Billing\bin\EPPlus.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTDC\DtDc Billing\bin\PagedList.xml
+D:\DTDC\DtDc Billing\bin\PagedList.Mvc.xml
+D:\DTDC\DtDc Billing\bin\Quartz.pdb
+D:\DTDC\DtDc Billing\bin\Quartz.xml
+D:\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Http.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Helpers.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Mvc.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Optimization.xml
+D:\DTDC\DtDc Billing\bin\System.Web.Razor.xml
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.xml
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\DTDC\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\DTDC\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\DTDC\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.AssemblyReference.cache
+D:\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+D:\DTDC\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\DTDC\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\ApplicationInsights.config
+D:\DTDCPro\DTDC\DtDc Billing\bin\SqlServerTypes\x64\msvcr120.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\SqlServerTypes\x86\msvcr120.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\DtDc Billing.dll.config
+D:\DTDCPro\DTDC\DtDc Billing\bin\DtDc Billing.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\DtDc Billing.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\Antlr3.Runtime.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\EntityFramework.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\EPPlus.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Ionic.Zip.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.Web.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Common.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.Design.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ReportViewer.WinForms.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Smo.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SmoExtended.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlClrProvider.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.SqlServer.Types.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Web.Infrastructure.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Newtonsoft.Json.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\PagedList.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\PagedList.Mvc.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Quartz.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Helpers.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Http.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Mvc.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Optimization.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Razor.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\WebGrease.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\EnvDTE.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\stdole.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.MSXML.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\EntityFramework.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\EntityFramework.SqlServer.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\EPPlus.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\PagedList.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\PagedList.Mvc.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Quartz.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\Quartz.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Http.Formatting.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Http.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Http.WebHost.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Helpers.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Mvc.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Optimization.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.Razor.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.Deployment.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Web.WebPages.Razor.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Antlr3.Runtime.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\Newtonsoft.Json.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.ApplicationInsights.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.DependencyCollector.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.WindowsServer.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.AI.Web.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.AssemblyReference.cache
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\RdlCompile.cache
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\RdlCompile.compiled
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\DtDc Billing.csproj.CopyComplete
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\DtDc Billing.dll
+D:\DTDCPro\DTDC\DtDc Billing\obj\Release\DtDc Billing.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\ClosedXML.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\DocumentFormat.OpenXml.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ExcelNumberFormat.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.FileSystem.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.Packaging.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\ClosedXML.pdb
+D:\DTDCPro\DTDC\DtDc Billing\bin\ClosedXML.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\DocumentFormat.OpenXml.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\ExcelNumberFormat.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Win32.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\netstandard.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.AppContext.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Collections.Concurrent.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Collections.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Collections.NonGeneric.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Collections.Specialized.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ComponentModel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ComponentModel.EventBasedAsync.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ComponentModel.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ComponentModel.TypeConverter.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Console.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Data.Common.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.Contracts.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.Debug.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.FileVersionInfo.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.Process.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.StackTrace.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.Tools.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.TraceSource.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Diagnostics.Tracing.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Drawing.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Dynamic.Runtime.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Globalization.Calendars.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Globalization.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Globalization.Extensions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.Compression.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.Compression.ZipFile.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.FileSystem.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.FileSystem.DriveInfo.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.FileSystem.Watcher.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.IsolatedStorage.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.MemoryMappedFiles.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.Pipes.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.IO.UnmanagedMemoryStream.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Linq.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Linq.Expressions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Linq.Parallel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Linq.Queryable.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Http.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.NameResolution.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.NetworkInformation.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Ping.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Requests.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Security.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.Sockets.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.WebHeaderCollection.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.WebSockets.Client.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Net.WebSockets.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ObjectModel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Reflection.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Reflection.Extensions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Reflection.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Resources.Reader.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Resources.ResourceManager.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Resources.Writer.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Extensions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Handles.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.InteropServices.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Numerics.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Serialization.Formatters.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Serialization.Json.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Serialization.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.Serialization.Xml.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Claims.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Cryptography.Algorithms.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Cryptography.Csp.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Cryptography.Encoding.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Cryptography.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Cryptography.X509Certificates.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.Principal.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Security.SecureString.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Text.Encoding.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Text.Encoding.Extensions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Text.RegularExpressions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.Overlapped.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.Tasks.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.Tasks.Parallel.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.Thread.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.ThreadPool.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Threading.Timer.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.ValueTuple.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.ReaderWriter.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.XDocument.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.XmlDocument.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.XmlSerializer.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.XPath.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Xml.XPath.XDocument.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Logging.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Options.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Primitives.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\NLog.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\NLog.Extensions.Logging.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Buffers.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Memory.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Numerics.Vectors.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Logging.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Options.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Microsoft.Extensions.Primitives.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\NLog.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\NLog.Extensions.Logging.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Buffers.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Memory.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Numerics.Vectors.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DTDCPro\DTDC\DtDc Billing\bin\Razorpay.dll

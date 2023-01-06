@@ -1,0 +1,444 @@
+﻿@*@model IEnumerable<DtDc_Billing.Entity_FR.Invoice>*@
+
+@model IEnumerable<DtDc_Billing.Models.PaymentModel>
+
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<link href="~/admin-lte/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" rel="stylesheet" />
+<script src="~/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+
+<!-- Main content -->
+
+<div class="content-wrapper">
+    <section class="content">
+
+        <div class="overlay" id="overlayBlock">
+            <div class="loader"></div>
+        </div>
+
+        <div class="modal fade" id="modal-default">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h4 class="modal-title">Add Payment</h4>
+                    </div>
+                    <div class="modal-body">
+
+                        <ul class="nav nav-tabs" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#home">Cash</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#menu1">Cheque</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#menu2">RTGS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#menu3">Credit Note</a>
+                            </li>
+                        </ul>
+
+
+                        <div class="tab-content">
+                            <div id="home" class="tab-pane active">
+                                <br>
+                                <h5>
+                                    <span class="Netamount text-info "></span><span class="Balance text-danger pull-right"></span>
+                                    <input type="hidden" class="Firm_Id">
+                                </h5>
+                                <div id="CashP">
+                                    @{ Html.RenderPartial("CashPartial", (DtDc_Billing.Entity_FR.Cash)ViewBag.Cash);}
+                                </div>
+                            </div>
+                            <div id="menu1" class="tab-pane fade">
+                                <br>
+                                <h5>
+                                    <span class="Netamount text-info "></span><span class="Balance text-danger pull-right"></span>
+                                    <input type="hidden" class="Firm_Id">
+                                </h5>
+                                <div id="ChequeP">
+                                    @{ Html.RenderPartial("ChequePartial", (DtDc_Billing.Entity_FR.Cheque)ViewBag.Cheque);}
+                                </div>
+                            </div>
+                            <div id="menu2" class="tab-pane fade">
+                                <br>
+                                <h5>
+                                    <span class="Netamount text-info "></span><span class="Balance text-danger pull-right"></span>
+                                    <input type="hidden" class="Firm_Id">
+                                </h5>
+                                <div id="NeftP">
+                                    @{ Html.RenderPartial("NeftPartial", (DtDc_Billing.Entity_FR.NEFT)ViewBag.Neft);}
+                                </div>
+                            </div>
+
+                            <div id="menu3" class="tab-pane fade">
+                                <br>
+                                <h5>
+                                    <span class="Netamount text-info "></span><span class="Balance text-danger pull-right"></span>
+                                    <input type="hidden" class="Firm_Id">
+                                </h5>
+                                <div id="CreditP">
+                                    @{ Html.RenderPartial("CreditNotePartial", (DtDc_Billing.Entity_FR.CreditNote)ViewBag.Credit);}
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+
+
+
+
+        <div class="box box-info">
+
+            <div class="box-header with-border">
+                <h4>Add Payment</h4>
+            </div><!-- /.box-header -->
+            @using (Html.BeginForm())
+            {
+
+                <div class="form-group">
+                    <div class="col-sm-3">
+                        <label>Payment Status</label>
+
+                        <select name="status" id="status" class="form-control">
+                            <option value="All">All</option>
+                            <option value="Paid">Paid</option>
+                            <option value="Unpaid">Unpaid</option>
+
+                        </select>
+
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <input type="submit" class="btn btn-primary pull-right" name="Show" value="Show" />
+                </div>
+
+                <br /><br />
+
+                <br /><br />
+
+            }
+
+
+            <div class="box-body">
+                <!-- column -->
+                <!-- Horizontal Form -->
+
+                <table id="table_display_block" class="table table-striped table-bordered table-responsive height-450">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>
+                                Customer_Id
+                            </th>
+
+                            <th>
+                                invoiceno
+
+                            </th>
+                            <th>
+                                Invoicedate
+                            </th>
+                            @*<th>
+                                    @Html.DisplayNameFor(model => model.periodfrom)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.periodto)
+                                </th>*@
+                            @*<th>
+                                    @Html.DisplayNameFor(model => model.total)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Royalty_charges)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Docket_charges)
+                                </th>*@
+                            <th>Sub Total</th>
+                            <th>
+                                FSC
+                            </th>
+                            <th>
+                                FSC Total
+                            </th>
+                            <th>
+                                GST
+                            </th>
+                            <th>
+                                GST Total
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.netamount)
+                            </th>
+                            <th>Paid</th>
+                            <th>Balance</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @if (item.Balance == 0) //
+                                    {
+                                        <p class="text-success"><i class="fa fa-tick"></i> Paid</p>
+                                    }
+                                    else
+                                    {
+                                        <button type="button" class="btn btn-success addpmt" data-toggle="modal" data-datac="@item.invoiceno" data-dataamt="@item.netamount" data-databal="@item.paid" data-datafirmid="@item.Firm_Id" data-target="#modal-default">
+                                            Add Payments
+                                        </button>
+                                    }
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Customer_Id)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.invoiceno)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.tempInvoicedate)
+                                </td>
+                                @*<td>
+                                        @Html.DisplayFor(modelItem => item.Tempdatefrom)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TempdateTo)
+                                    </td>*@
+                                @*<td>
+                                        @Html.DisplayFor(modelItem => item.total)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Royalty_charges)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Docket_charges)
+                                    </td>*@
+                                <td>
+                                    @(item.total + (item.Docket_charges ?? 0) + (item.Royalty_charges ?? 0) )
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fullsurchargetax)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fullsurchargetaxtotal)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.servicetax)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.servicetaxtotal)
+                                </td>
+
+                                <td>
+                                    @item.netamount.Value.ToString("##")
+                                </td>
+                                <td>
+                                    @(item.paid)
+                                </td>
+                                <td>
+                                    @(item.Balance)
+                                </td>
+
+
+
+
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+        </div>
+        <!-- /.box -->
+        <!--/.col (right) -->
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+
+</div>
+
+
+    <style>
+        .overlay {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-color: #00000052;
+            top: 0;
+            left: 0;
+            z-index: 9999;
+            display: none;
+        }
+
+        .loader {
+            position: absolute;
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid blue;
+            border-bottom: 16px solid blue;
+            width: 120px;
+            height: 120px;
+            -webkit-animation: spin 2s linear infinite;
+            top: 40%;
+            animation: spin 2s linear infinite;
+            bottom: 50%;
+            left: 50%;
+            right: 50%;
+        }
+
+
+        @@-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @@keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+
+        #generate-invoice {
+            display: block;
+            height: 400px;
+        }
+
+        .radio {
+            display: inline-block;
+            padding-right: 20px;
+        }
+    </style>
+
+
+    <style>
+        .input-validation-error {
+            border: 1px solid #ff0000 !important;
+        }
+    </style>
+
+    <script>
+
+        $(document).ready(function () {
+            $(".addpmt").click(function () {
+                var d = $(this).data('datac');
+                var netamt = $(this).data('dataamt');
+                netamt = Math.round(netamt);
+                var paid = $(this).data('databal');
+
+                var Firm_Id = $(this).data('datafirmid');
+
+                $('.Invoiceno').val(d);
+                $('.Firm_Id').val(Firm_Id);
+                $('.Netamount').text('Net Amount Is' + " : " + netamt);
+                $('.Balance').text('Balance Amount Is' + " : " + (netamt - paid));
+
+
+            });
+
+            $('#tempinserteddate,#tempch_date,#tempneftdate,#cr_date').datepicker({
+                autoclose: true,
+                format: 'mm-dd-yyyy'
+            })
+        });
+    </script>
+    <script>
+        $(function () {
+            $('#table_display_block').dataTable({
+                "bPaginate": true,
+                "bLengthChange": true,
+                "bFilter": true,
+                "bSort": true,
+                "bInfo": false,
+                "bAutoWidth": false
+            });
+        });
+
+    </script>
+
+
+
+    @if (TempData["success"] != null)
+    {
+        <script>
+        $("#overlayBlock").show();
+    /**/
+
+
+
+        /**/
+        var myParamether = '@TempData["Customer_Id"]';
+    var firmid = '@TempData["Firmid"]'
+    var base_url = window.location.origin;
+
+        /**/
+        $("#overlayBlock").hide();
+        var win = window.open(base_url + '/PDF/' + myParamether + '_CreditNoteReceipt.pdf','_blank');
+
+        if (win) {
+            //Browser has allowed it to be opened
+            win.focus();
+        } else {
+            //Browser has blocked it
+            alert('Please allow popups for this website');
+        }
+  //  window.open('/Invoice/ReportPrinterMethod?report=reportview&myParameter=' + myParamether, 'ReportView', '');
+        //$.get("/Invoice/SavepdInvoice", { myParameter: myParamether, firmid:firmid }, function (data) {
+        //    $('#saveinv').attr('href', "http://admin.infantjesussolutions.in/PDF/" + data);
+
+
+
+
+        //});
+
+        </script>
+
+
+
+
+    }
+
+    @if (ViewBag.status != null)
+    {
+        <script>
+                $(document).ready(function() {
+                    $('#status').val('@ViewBag.status');
+            });
+        </script>
+    }
+
+<script>
+    $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+        $('body').addClass("sidebar-mini sidebar-collapse");
+    });
+</script>

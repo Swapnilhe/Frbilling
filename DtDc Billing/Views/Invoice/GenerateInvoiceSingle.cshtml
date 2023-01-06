@@ -1,0 +1,20 @@
+﻿@model DtDc_Billing.Models.InvoiceModel
+@{
+    ViewBag.Title = "GenerateInvoice";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+
+
+<div id="form-Cons">
+    @Html.Partial("GenerateInvoiceSinglePartial", Model)
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+        $('body').addClass("sidebar-mini sidebar-collapse");
+    });
+</script>
