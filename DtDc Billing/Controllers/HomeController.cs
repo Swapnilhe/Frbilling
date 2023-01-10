@@ -673,13 +673,21 @@ namespace DtDc_Billing.Controllers
             Console.WriteLine(today.ToShortDateString());
             Console.WriteLine(sixMonthsBack.ToShortDateString());
 
-            string Todayda = Convert.ToString(today.Date.ToString("MM-dd-yyyy"));
-            string[] Todaydate = Todayda.Split('-');
+            //string Todayda = Convert.ToString(today.Date.ToString("MM-dd-yyyy"));
+            //string[] Todaydate = Todayda.Split('-');
+
+            string Todayda = Convert.ToString(today.Date.ToString("MM/dd/yyyy"));
+            string[] Todaydate = Todayda.Split('/');
+
             string TodayMonth = Todaydate[0];
             string TodayYear = Todaydate[2];
 
-            string da = Convert.ToString(sixMonthsBack.Date.ToString("MM-dd-yyyy"));
-            string[] SixMonthBackdate = da.Split('-');
+            //string da = Convert.ToString(sixMonthsBack.Date.ToString("MM-dd-yyyy"));
+            //string[] SixMonthBackdate = da.Split('-');
+
+            string da = Convert.ToString(sixMonthsBack.Date.ToString("MM/dd/yyyy"));
+            string[] SixMonthBackdate = da.Split('/');
+
             string SixMonthBackMonth = SixMonthBackdate[0];
             string SixMonthBackYear = SixMonthBackdate[2];
 
@@ -737,13 +745,21 @@ namespace DtDc_Billing.Controllers
             Console.WriteLine(today.ToShortDateString());
             Console.WriteLine(sixMonthsBack.ToShortDateString());
 
-            string Todayda = Convert.ToString(today.Date.ToString("MM-dd-yyyy"));
-            string[] Todaydate = Todayda.Split('-');
+            //string Todayda = Convert.ToString(today.Date.ToString("MM-dd-yyyy"));
+            //string[] Todaydate = Todayda.Split('-');
+
+            string Todayda = Convert.ToString(today.Date.ToString("MM/dd/yyyy"));
+            string[] Todaydate = Todayda.Split('/');
+
             string TodayMonth = Todaydate[0];
             string TodayYear = Todaydate[2];
 
-            string da = Convert.ToString(sixMonthsBack.Date.ToString("MM-dd-yyyy"));
-            string[] SixMonthBackdate = da.Split('-');
+            //string da = Convert.ToString(sixMonthsBack.Date.ToString("MM-dd-yyyy"));
+            //string[] SixMonthBackdate = da.Split('-');
+
+            string da = Convert.ToString(sixMonthsBack.Date.ToString("MM/dd/yyyy"));
+            string[] SixMonthBackdate = da.Split('/');
+
             string SixMonthBackMonth = SixMonthBackdate[0];
             string SixMonthBackYear = SixMonthBackdate[2];
 

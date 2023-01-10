@@ -17,7 +17,7 @@
             <div class="row">
 
                 <!-- Horizontal Form -->
-                <div class="col-sm-6">
+                <div class="col-sm-12">
                     <!-- form start -->
                     <div class="form-horizontal">
 
@@ -28,22 +28,30 @@
                             {
 
                                 @*<div class="form-group">
-                                        <div class="col-sm-9">
-                                            <label>MFID</label>
-                                            <label class="Reqired">*</label>
-                                            @Html.DropDownList("PfCode")
-                                        </div>
-                                    </div>*@
-                                <div class="form-group">
-                                    <div class="col-sm-9">
+                <div class="col-sm-9">
+                    <label>MFID</label>
+                    <label class="Reqired">*</label>
+                    @Html.DropDownList("PfCode")
+                </div>
+            </div>*@
+
+
+                            <div class="row">
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+
                                         <label>Select Type</label>
                                         <label class="Reqired">*</label>
                                         @Html.DropDownList("RemainingType")
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-6"  >
                                     <input type="submit" class="btn btn-primary pull-right sbmt" name="Show" value="Show" />
                                 </div>
+                            </div>
+                            
+                                
 
 
                                 <input type="hidden" id="PfCode" value="@ViewBag.PfCode">
@@ -345,15 +353,21 @@
 
                             <tr>
                                 <th>Days left</th>
-                                <th>10 Days left</th>
-                                <th>25 Days left</th>
+                                <th>No of consignment</th>
+                               
 
                             </tr>
 
                             <tr>
-                                <th>No of consignment</th>
-                                <th class="text-danger">@sum10</th>
-                                <th class="text-danger">@sum25</th>
+
+                                <td class="text-danger">@sum10</td>
+                                <td class="text-danger">@sum25</td>
+
+                            </tr>
+                            <tr>
+
+                                <td>10 Days left</td>
+                                <td>25 Days left</td>
 
                             </tr>
 

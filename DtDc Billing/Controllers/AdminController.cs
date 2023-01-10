@@ -23,6 +23,7 @@ using System.Net.Mail;
 using Razorpay.Api;
 using Microsoft.Reporting.WebForms;
 using System.Text.RegularExpressions;
+using DocumentFormat.OpenXml.EMMA;
 
 namespace DtDc_Billing.Controllers
 {
@@ -2275,8 +2276,54 @@ namespace DtDc_Billing.Controllers
             return View(franchisee);
         }
 
+        public ActionResult AddLogo()
+        {
+            return PartialView();
+        }
 
-        public ActionResult ImportCsv()
+        [HttpPost]
+        public ActionResult AddLogo(AddlogoModel logo)
+        {
+            var r = new Regex(@"([a-zA-Z0-9\s_\\.\-:])+(.png|.jpg|.gif)$");
+            if (!r.IsMatch(logo.file.FileName))
+            {
+                ModelState.AddModelError("file", "Only Image files allowed.");
+                TempData["Success"] = "Only Image files allowed!";
+            }
+           else
+            {
+                string strpf = Session["PFCode"].ToString();
+                string _FileName = "";
+                string _path = "";
+
+                if (logo.file.ContentLength > 0)
+                {
+                    _FileName = Path.GetFileName(logo.file.FileName);
+                    _path = Server.MapPath("~/UploadedLogo/") + _FileName;
+                    logo.file.SaveAs(_path);
+                }
+              
+                var lo = (from d in db.Franchisees
+                           where d.PF_Code == strpf
+                          select d).FirstOrDefault();
+
+               
+                lo.LogoFilePath = _path;
+
+                db.Entry(lo).State = EntityState.Modified;
+                db.SaveChanges();
+
+                TempData["Success"] = "Logo Added Successfully!";
+                return RedirectToAction("Franchiseelist");
+            }
+
+            return RedirectToAction("Franchiseelist");
+            //return PartialView(logo);
+
+        }
+
+
+            public ActionResult ImportCsv()
         {
             return View();
         }
@@ -2316,7 +2363,7 @@ namespace DtDc_Billing.Controllers
             Fr.Branch = data.Branch;
             Fr.Accounttype = data.Accounttype;
             Fr.InvoiceStart = data.InvoiceStart;
-
+            
 
             if (Fr == null)
             {
@@ -2333,6 +2380,11 @@ namespace DtDc_Billing.Controllers
             ViewBag.pfcode = strpf;//stored in hidden format on the view
             ViewBag.DataSector = st;
             ViewBag.Sectors = st;
+
+            if (data.LogoFilePath != null)
+            {
+                ViewBag.logoimg = data.LogoFilePath;
+            }
 
             return View();
         }
