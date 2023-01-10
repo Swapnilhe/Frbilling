@@ -1810,17 +1810,32 @@ i.fa.fa-arrow-circle-right {
     width: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
+.form-horizontal .form-group {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    color: #0049af !important;
+    cursor: default;
+    background-color: #0049af14 !important;
+    border: 1px solid #0049af !important;
+    border-bottom-color: transparent !important;
+    font-weight: 400;
+}
+.nav-tabs {
+    border-bottom: none;
+}
 
-    .box.box-primary {
-        border-top-color: #3c8dbc;
-    }
+.box.box-primary {
+    border-top-color: #3c8dbc;
+}
 
-    .box.box-info {
-        border-top-color: none;
-        border: none;
-        box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%);
-        background: white;
-    }
+.box.box-info {
+    border-top-color: none;
+    border: none !important;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%) !important;
+    background: white;
+}
 
     .box.box-danger {
         border-top-color: #dd4b39;
