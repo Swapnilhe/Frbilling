@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>E:\Publish\FrBilling10_01_23</_PublishTargetUrl>
-    <History>True|2023-01-10T09:47:01.4429237Z;</History>
+    <History>True|2023-01-10T11:05:29.3336897Z;True|2023-01-10T15:52:06.9434099+05:30;True|2023-01-10T15:17:01.4429237+05:30;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="admin-lte/AdminLTE.min.css">
@@ -1161,7 +1161,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>05/30/2018 12:16:08</publishTime>
     </File>
     <File Include="admin-lte/bower_components/bootstrap/less/navs.less">
-      <publishTime>05/30/2018 12:16:08</publishTime>
+      <publishTime>01/10/2023 15:57:19</publishTime>
     </File>
     <File Include="admin-lte/bower_components/bootstrap/less/normalize.less">
       <publishTime>05/30/2018 12:16:08</publishTime>
@@ -6147,7 +6147,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>05/30/2018 12:17:38</publishTime>
     </File>
     <File Include="admin-lte/css/AdminLTE.css">
-      <publishTime>01/10/2023 11:50:14</publishTime>
+      <publishTime>01/10/2023 15:57:19</publishTime>
     </File>
     <File Include="admin-lte/css/adminlte.css.map">
       <publishTime>05/30/2018 12:17:38</publishTime>
@@ -8241,10 +8241,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>06/07/2017 04:29:22</publishTime>
     </File>
     <File Include="bin/DtDc Billing.dll">
-      <publishTime>01/10/2023 15:16:04</publishTime>
+      <publishTime>01/10/2023 16:35:08</publishTime>
     </File>
     <File Include="bin/DtDc Billing.pdb">
-      <publishTime>01/10/2023 15:16:04</publishTime>
+      <publishTime>01/10/2023 16:35:08</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>01/04/2017 00:44:16</publishTime>
@@ -9474,7 +9474,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/27/2018 19:36:10</publishTime>
     </File>
     <File Include="Views/Admin/Add_SectorPin.cshtml">
-      <publishTime>12/20/2022 19:23:56</publishTime>
+      <publishTime>01/10/2023 15:57:19</publishTime>
     </File>
     <File Include="Views/Admin/AdminChangePass.cshtml">
       <publishTime>03/19/2019 13:43:32</publishTime>
@@ -9501,7 +9501,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>12/06/2018 16:07:00</publishTime>
     </File>
     <File Include="Views/Admin/Edit.cshtml">
-      <publishTime>01/09/2023 17:09:25</publishTime>
+      <publishTime>01/10/2023 16:24:51</publishTime>
     </File>
     <File Include="Views/Admin/EditCons.cshtml">
       <publishTime>05/30/2018 11:56:32</publishTime>
@@ -9969,7 +9969,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>05/30/2018 11:56:34</publishTime>
     </File>
     <File Include="Views/Home/CompanyExpiryDatePartial.cshtml">
-      <publishTime>01/10/2023 11:50:14</publishTime>
+      <publishTime>01/10/2023 16:25:20</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
       <publishTime>05/30/2018 11:56:34</publishTime>
@@ -9978,7 +9978,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/10/2023 11:50:14</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>01/10/2023 11:50:14</publishTime>
+      <publishTime>01/10/2023 16:25:20</publishTime>
     </File>
     <File Include="Views/Home/Jschart.cshtml">
       <publishTime>01/10/2023 11:50:14</publishTime>
@@ -10335,7 +10335,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/04/2023 12:51:44</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/10/2023 15:16:07</publishTime>
+      <publishTime>01/10/2023 16:25:20</publishTime>
     </File>
   </ItemGroup>
 </Project>
