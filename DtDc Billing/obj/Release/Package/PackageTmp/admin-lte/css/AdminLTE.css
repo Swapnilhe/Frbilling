@@ -1760,6 +1760,9 @@ i.fa.fa-arrow-circle-right {
 .small-box p {
     z-index: 5;
 }
+.small-box {
+    height: 130px;
+}
 
 .small-box .icon {
     transition: all 0.3s linear;
@@ -1767,7 +1770,7 @@ i.fa.fa-arrow-circle-right {
     top: 0px;
     right: 10px;
     z-index: 0;
-    font-size: 70px;
+    font-size: 46px;
     color: rgba(0, 0, 0, 0.15);
 }
 
@@ -1777,7 +1780,7 @@ i.fa.fa-arrow-circle-right {
 }
 
     .small-box:hover .icon {
-        font-size: 55px;
+        font-size: 46px;
         color: #00000085;
     }
 
@@ -1801,7 +1804,7 @@ i.fa.fa-arrow-circle-right {
 .box {
     position: relative;
     border-radius: 3px;
-    background: #ffffff;
+  
     border-top: 1px solid #d2d6de;
     margin-bottom: 5px;
     width: 100%;
@@ -1816,6 +1819,7 @@ i.fa.fa-arrow-circle-right {
         border-top-color: none;
         border: none;
         box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%);
+        background: white;
     }
 
     .box.box-danger {
@@ -5344,9 +5348,10 @@ table.text-center th {
 .modal-danger .modal-body {
     background-color: #ffffff !important;
     border-radius: 9px;
-    min-height: 120px;
+   
     width: 90%;
     border: 3px solid #eff5ff;
+    padding: 13px;
 }
 
 .bg-yellow,
@@ -5356,9 +5361,10 @@ table.text-center th {
 .modal-warning .modal-body {
     background-color: #ffffff !important;
     border-radius: 9px;
-    min-height: 120px;
+   
     width: 90%;
     border: 3px solid #eff5ff;
+    padding: 13px;
 }
 
 .bg-aqua,
@@ -5370,9 +5376,10 @@ table.text-center th {
     border-radius: 9px;
     box-shadow: 0 0.75rem 6rem rgb(56 65 74 / 3%);
     /* height: 131px; */
-    min-height: 120px;
+   
     width: 90%;
     border: 3px solid #eff5ff;
+    padding: 13px;
 }
 
 .bg-blue {
@@ -6404,7 +6411,7 @@ table#formpaytble tr:nth-child(even) {
 }
 
 .collectionpara {
-    width: 97px;
+   
     margin: 0;
     font-size: 12px !important;
     color: #98a6ad;
