@@ -184,105 +184,117 @@
 </head>
 
 
-    <body class="hold-transition login-page" id="LoginForm">
-       
-            <div class="container">
+<body class="hold-transition login-page" id="LoginForm">
 
-                <div class="login-box " id="formloginbox">
+    <div class="container">
 
-                    <div class="logo-lg logo-text">
+        <div class="login-box " id="formloginbox">
 
-                        <img src="~/Content/img/logo1.png" class="logomxp" style="width: 300px; height: 100px; margin:0px 0px 19px 0px;">
+            <div class="logo-lg logo-text">
 
+                <img src="~/Content/img/logo1.png" class="logomxp" style="width: 300px; height: 100px; margin:0px 0px 19px 0px;">
+
+            </div>
+
+
+
+            @using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl }))
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="login-box-body login-form">
+                    <div class="main-div">
+                        <div class="panel">
+                            <p class="login-box-msg mymsg">Sign in to start your session</p>
+
+                            <p class="login-box-msg mymsg">
+                                <b>
+                                    <button id="btndemo" class="btn btn-primary btn-block btn-flat" onclick="fun()">Click For Demo</button>
+                                    @*Username : demo
+                                    <br />  Password : demo
+                                    <br /> Pfcode : 1*@
+                                </b>
+                            </p>
+
+                        </div>
+                        <div>
+
+                        </div>
+                        <form action="../../index2.html" method="post" id="Login">
+                            <div class="form-group has-feedback">
+                                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Username" } })
+                                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                                <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+                            </div>
+
+                            <div class="form-group has-feedback">
+                                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @placeholder = "Password" } })
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                            </div>
+
+                            <div class="form-group has-feedback">
+                                @Html.EditorFor(model => model.PFCode, new { htmlAttributes = new { @class = "form-control", @placeholder = "PFCode" } })
+                                @Html.ValidationMessageFor(model => model.PFCode, "", new { @class = "text-danger" })
+                            </div>
+
+
+                            <span class="text-danger">@Html.ValidationMessage("LoginAuth")</span>
+                            <div class="row">
+                                <div class="col-xs-8">
+                                    <div class="checkbox icheck">
+                                        @*  <a href="#">I forgot my password</a><br>*@
+                                    </div>
+                                </div>
+                                @*<div class="Reg">
+                                        <a target="_self" href="http://codetentacles-005-site2.htempurl.com">Register</a>
+
+                                    </div>*@
+                                <div class="Reg">
+                                    <a href="@Url.Action("Register","Admin")"> Register</a>
+                                </div>
+
+                                <!-- /.col -->
+                                <div class="col-xs-12">
+                                    <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
+                                </div>
+
+                                <!-- /.col -->
+                            </div>
+
+
+
+                        </form>
                     </div>
+                </div>
 
+            }
 
-
-                    @using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl }))
-                    {
-                        @Html.AntiForgeryToken()
-                        
-                        <div class="login-box-body login-form">
-                            <div class="main-div">
-                                <div class="panel">
-                                    <p class="login-box-msg mymsg">Sign in to start your session</p>
-                                   
-                                    <p class="login-box-msg mymsg">
-                                        <b>
-                                            Username : demo
-                                            <br />  Password : demo
-                                            <br /> Pfcode : 1
-                                        </b>
-                                    </p>
-                                   
-                                </div>
-                                <div>
-                                  
-                                </div>
-                                <form action="../../index2.html" method="post" id="Login">
-                                    <div class="form-group has-feedback">
-                                        @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Username" } })
-                                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
-                                        <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
-                                    </div>
-
-                                    <div class="form-group has-feedback">
-                                        @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @placeholder = "Password" } })
-                                        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
-                                        <span class="glyphicon glyphicon-lock form-control-feedback"></span>
-                                    </div>
-
-                                    <div class="form-group has-feedback">
-                                        @Html.EditorFor(model => model.PFCode, new { htmlAttributes = new { @class = "form-control", @placeholder = "PFCode" } })
-                                        @Html.ValidationMessageFor(model => model.PFCode, "", new { @class = "text-danger" })
-                                    </div>
-
-
-                                    <span class="text-danger">@Html.ValidationMessage("LoginAuth")</span>
-                                    <div class="row">
-                                        <div class="col-xs-8">
-                                            <div class="checkbox icheck">
-                                                @*  <a href="#">I forgot my password</a><br>*@
-                                            </div>
-                                        </div>
-                                        @*<div class="Reg">
-            <a target="_self" href="http://codetentacles-005-site2.htempurl.com">Register</a>
-
-        </div>*@
-                                        <div class="Reg">
-                                            <a href="@Url.Action("Register","Admin")"> Register</a>
-                                        </div>
-
-    <!-- /.col -->
-    <div class="col-xs-12">
-        <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
+        </div>
     </div>
 
-    <!-- /.col -->
-</div>
+    <!-- /.login-box -->
+    <!-- jQuery 3 -->
+    <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- iCheck -->
+    <script src="../../plugins/iCheck/icheck.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
-
-                                </form>
-                            </div>
-                        </div>
-                        
-                    }
-                    
-                </div>
-                                </div>
-
-                                <!-- /.login-box -->
-                                <!-- jQuery 3 -->
-                                <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
-                                <!-- Bootstrap 3.3.7 -->
-                                <script src="../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-                                <!-- iCheck -->
-                                <script src="../../plugins/iCheck/icheck.min.js"></script>
-                                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-                            
 </body>
 
 </html>
 
+<script>
+    function fun() {
+        var username = "demo";
+        var pass = "demo";
+        var pfcode = "1";
+
+        $("#UserName").val(username);
+        $("#Password").val(pass);
+        $("#PFCode").val(pfcode);
+    }
+</script>

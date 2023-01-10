@@ -188,7 +188,19 @@
                                     </div>
 
                                 </div>
-                                <div class="col-md-10" style="text-align: end;" >
+                                <div class="col-md-5">
+                                    <div class="form-group">
+                                        <label class=" control-label">Upload logo</label>
+                                        <div class="">
+                                            <input type="file" name="file" id="file" class="form-control" />
+                                            @Html.ValidationMessageFor(m => m.file, "", new { @class = "text-danger" })
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                                <div class="col-md-10" style="text-align: end;">
                                     <div class="form-group">
                                         <div class="">
                                             <input type="submit" value="Save" class="btn btn-primary" />

@@ -86,15 +86,16 @@ table#formpaytble tr:nth-child(even) {
 }
 
 .box.box-primary {
-    border-top-color: #ddd !important;
-    border: 1px solid #ddd;
+   
+    border: none;
 }
 
 .box-header.with-border {
-    border-bottom: 1px solid #ddd !important;
+    border-bottom: none;
     text-transform: uppercase;
     color: #3e4140;
     padding-left: 10px;
+    display:flex;
 }
 
 .box-header .box-title {
