@@ -69,7 +69,6 @@ namespace DtDc_Billing.Entity_FR
         public virtual DbSet<NewNotification> NewNotifications { get; set; }
         public virtual DbSet<UserModuleList> UserModuleLists { get; set; }
         public virtual DbSet<Invoice> Invoices { get; set; }
-        public virtual DbSet<Franchisee> Franchisees { get; set; }
         public virtual DbSet<Cash> Cashes { get; set; }
         public virtual DbSet<CreditNote> CreditNotes { get; set; }
         public virtual DbSet<NEFT> NEFTs { get; set; }
@@ -78,6 +77,7 @@ namespace DtDc_Billing.Entity_FR
         public virtual DbSet<AdminAccessPage> AdminAccessPages { get; set; }
         public virtual DbSet<paymentLog> paymentLogs { get; set; }
         public virtual DbSet<registration> registrations { get; set; }
+        public virtual DbSet<Franchisee> Franchisees { get; set; }
     
         public virtual ObjectResult<getNotification_Result> getNotification()
         {

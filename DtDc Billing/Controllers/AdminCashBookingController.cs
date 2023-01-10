@@ -1440,7 +1440,8 @@ Select(e => new
         public string Printcashcounter(string myParameter)
         {
             {
-                //string consignmnetno1 = "P53637433";
+                string pfcode = Session["PFCode"].ToString();
+
              LocalReport lr = new LocalReport();
 
                 string ProductType = "";
@@ -1464,7 +1465,8 @@ Select(e => new
 
                 string barcode = GenerateBarCode(myParameter);
 
-               
+                var logo = db.Franchisees.Where(m => m.PF_Code == pfcode).FirstOrDefault();
+
                 string path = Path.Combine(Server.MapPath("~/RdlcReport"), "P_N_Series_cashcounter.rdlc");
 
                 var CompanyData = db.Franchisees.Where(m => m.PF_Code == Recieptdetails1.Pf_Code).ToList();
@@ -1488,8 +1490,13 @@ Select(e => new
                 //string pathimg = (Server.MapPath("~/BarcodeImages/P34638564.png"));
 
                 ReportParameter rp = new ReportParameter("rpt_img", "file:///" + barcode);
-                   
+
+                ReportParameter rp1 = new ReportParameter("rpt_logoimg", "file:///" + logo.LogoFilePath);
+
                 lr.SetParameters(rp);
+
+                lr.SetParameters(rp1); 
+                
                 lr.Refresh();
 
                 lr.DataSources.Add(rd);
