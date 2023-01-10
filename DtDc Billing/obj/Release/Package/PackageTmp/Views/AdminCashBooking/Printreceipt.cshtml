@@ -9,7 +9,7 @@
 
 
 
-@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "receiptform" }))
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "receiptform", LoadingElementId = "overlayBlock", }))
 {
     @Html.AntiForgeryToken()
 
@@ -767,6 +767,7 @@
                                     {
                                         <span id="Walletmoney">@ViewBag.WalletPopints</span>
                                     }
+                                   
                                 </div>
                                 <div id="redeem-btn" class="col-md-3">
                                     <div class="container">
@@ -832,6 +833,9 @@
 </div><!-- /.example-modal -->
 
 
+<div class="overlay" id="overlayBlock">
+    <div class="loader"></div>
+</div>
 
 
 <style>
@@ -881,6 +885,33 @@
             margin: 30px auto;
         }
     }
+    .overlay {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: #00000052;
+        top: 0;
+        left: 0;
+        z-index: 9999;
+        display: none;
+    }
+
+    .loader {
+        position: absolute;
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid blue;
+        border-bottom: 16px solid blue;
+        width: 120px;
+        height: 120px;
+        -webkit-animation: spin 2s linear infinite;
+        top: 40%;
+        animation: spin 2s linear infinite;
+        bottom: 50%;
+        left: 50%;
+        right: 50%;
+    }
+
 </style>
 
 
@@ -2389,3 +2420,33 @@ $(document).ready(function () {
     }
 </style>
 
+@if (ViewBag.Consignmetno != null)
+{
+    <script>
+        $("#overlayBlock").show();
+    /**/
+    var print = '@ViewBag.pdf';
+    /**/
+
+    if (print == "True") {
+        /**/
+        var myParamether = '@ViewBag.Consignmetno';
+
+
+    /**/
+
+    //window.open('/Invoice/ReportPrinterMethod?report=reportview&myParameter=' + myParamether, 'ReportView', '');
+        $.get("/AdminCashBooking/Printcashcounter", { myParameter: myParamether}, function (data) {
+            $('#savecon').attr('href', "http://codetentacles-005-site1.htempurl.com/CashcounterPDF/" + data);
+
+            document.getElementById('savecon').click();
+            $("#overlayBlock").hide();
+
+
+        });
+}
+    </script>
+}
+
+<a id="savecon" style="" href="" download>
+</a>
