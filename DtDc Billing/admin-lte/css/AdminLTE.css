@@ -2037,15 +2037,7 @@ i.fa.fa-arrow-circle-right {
             background: rgba(0, 0, 0, 0.5);
         }
 
-.box-header:before,
-.box-body:before,
-.box-footer:before,
-.box-header:after,
-.box-body:after,
-.box-footer:after {
-    content: " ";
-    display: table;
-}
+
 
 .box-header:after,
 .box-body:after,
@@ -6129,6 +6121,8 @@ table.dataTable thead > tr > th.sorting_asc {
     border-bottom: 1px solid #ddd;
     /* background: #f4f4f4; */
     background: #ffffff;
+        justify-content: space-between;
+    width: 100%;
 }
 
 .skin-red-light .sidebar-menu > li > a {
