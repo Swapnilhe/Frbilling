@@ -74,7 +74,7 @@ namespace DtDc_Billing.Controllers
             {
                 Receipt_details Recp_De = new Receipt_details();
 
-                Recp_De.Pf_Code = Session["PFCode"].ToString();
+                Recp_De.Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 Recp_De.Consignment_No = reciept_Details.Consignment_No;
                 Recp_De.Destination = reciept_Details.Destination;
                 Recp_De.sender_phone = reciept_Details.sender_phone;
@@ -398,7 +398,7 @@ namespace DtDc_Billing.Controllers
 
         {
 
-            string strpfcode = Session["PFCode"].ToString();
+            string strpfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             var entity = db.SenderPhoneFromReceiptdetails(enterValue, strpfcode).
                             Select(e => new SenderPhoneFromReceiptdetailsModel
@@ -428,7 +428,7 @@ namespace DtDc_Billing.Controllers
             //{
             //    e.Reciepents_phone
             //}).Distinct().ToList();
-            string strpfcode = Session["PFCode"].ToString();
+            string strpfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             var entity = db.ReceipentsPhoneFromReceiptdetails(enterValue, strpfcode).
                                          Select(e => new ReceipentsPhoneFromReceiptdetailsModel
@@ -1440,7 +1440,7 @@ Select(e => new
         public string Printcashcounter(string myParameter)
         {
             {
-                string pfcode = Session["PFCode"].ToString();
+                string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
              LocalReport lr = new LocalReport();
 

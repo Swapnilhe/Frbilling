@@ -24,6 +24,7 @@ using Razorpay.Api;
 using Microsoft.Reporting.WebForms;
 using System.Text.RegularExpressions;
 using DocumentFormat.OpenXml.EMMA;
+using static System.Net.WebRequestMethods;
 
 namespace DtDc_Billing.Controllers
 {
@@ -985,7 +986,7 @@ namespace DtDc_Billing.Controllers
             ViewBag.Categories = new MultiSelectList(categories, "PF_Code");
 
 
-            ViewBag.PF_Code = Session["PFCode"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
+            ViewBag.PF_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
 
           
             List<SelectListItem> items1 = new List<SelectListItem>();
@@ -1911,7 +1912,7 @@ namespace DtDc_Billing.Controllers
                             //string pfcodef = "";
                             if (franchisee.Pfcode == null)
                             {
-                                franchisee.Pfcode = Session["PFCode"].ToString();
+                                franchisee.Pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
                             }
                             List<Sector> secct = (from u in db.Sectors
@@ -1962,7 +1963,7 @@ namespace DtDc_Billing.Controllers
                     }
 
 
-                string pfcode = Session["PFCode"].ToString();
+                string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 List<Sector> secct1 = (from u in db.Sectors
                                    where u.Pf_code == pfcode//franchisee.Pfcode
 
@@ -2220,7 +2221,7 @@ namespace DtDc_Billing.Controllers
 
                 Franchisee Fr = new Franchisee();
 
-                Fr.PF_Code = Session["PFCode"].ToString();
+                Fr.PF_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 Fr.F_Address = franchisee.F_Address;
                 Fr.OwnerName = franchisee.OwnerName;
                 Fr.BranchName = franchisee.BranchName;
@@ -2247,7 +2248,7 @@ namespace DtDc_Billing.Controllers
                            where d.Pfcode == franchisee.PF_Code
                            select d).FirstOrDefault();
 
-                Reg.Pfcode = Session["PFCode"].ToString();
+                Reg.Pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 Reg.address = franchisee.F_Address;
                 Reg.ownerName = franchisee.OwnerName;
                 Reg.Branch = franchisee.BranchName;
@@ -2292,14 +2293,14 @@ namespace DtDc_Billing.Controllers
             }
            else
             {
-                string strpf = Session["PFCode"].ToString();
+                string strpf = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 string _FileName = "";
                 string _path = "";
 
                 if (logo.file.ContentLength > 0)
                 {
                     _FileName = Path.GetFileName(logo.file.FileName);
-                    _path = Server.MapPath("~/UploadedLogo/") + _FileName;
+                    _path = "frbilling.com/UploadedLogo/" + _FileName;
                     logo.file.SaveAs(_path);
                 }
               
@@ -2331,7 +2332,7 @@ namespace DtDc_Billing.Controllers
         public ActionResult FranchiseeList()
         {
             //long stradmin = Convert.ToInt64(Session["Admin"]);
-            string strpf = Session["PFCode"].ToString();
+            string strpf = Request.Cookies["Cookies"]["AdminValue"].ToString();
             if (strpf == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
@@ -2392,7 +2393,7 @@ namespace DtDc_Billing.Controllers
        
         public ActionResult UserList()
         {
-            string strpf = Session["PFCode"].ToString();
+            string strpf = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             var datauser = (from d in db.Users
                             where d.PF_Code == strpf

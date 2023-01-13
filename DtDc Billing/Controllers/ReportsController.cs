@@ -69,7 +69,7 @@ namespace DtDc_Billing.Controllers
         [HttpPost]
         public ActionResult billedunbilled(string Fromdatetime, string ToDatetime, string PfCode, string status, string Submit)
         {
-            PfCode = Session["PFCode"].ToString();
+            PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             string[] formats = {"dd/MM/yyyy", "dd-MMM-yyyy", "yyyy-MM-dd",
                    "dd-MM-yyyy", "M/d/yyyy", "dd MMM yyyy"};
@@ -438,7 +438,7 @@ namespace DtDc_Billing.Controllers
         [SessionAdmin]
         public ActionResult GetUserList()
         {
-            string Pfcode= Session["PFCode"].ToString();
+            string Pfcode= Request.Cookies["Cookies"]["AdminValue"].ToString();
             db.Configuration.ProxyCreationEnabled = false;
 
             List<User> lstuser = new List<User>();
@@ -2411,7 +2411,7 @@ System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat);
         [HttpPost]
         public ActionResult creditorsreport(string Employees, string ToDatetime, string Fromdatetime, string Submit)
         {
-            string PfCode = Session["PFCode"].ToString();
+            string PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
             if (Employees == null)
             {
                 Employees = "";

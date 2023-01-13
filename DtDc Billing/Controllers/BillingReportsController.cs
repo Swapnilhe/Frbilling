@@ -487,7 +487,7 @@ namespace DtDc_Billing.Controllers
         [HttpPost]
         public ActionResult CreditorsReport(string Fromdatetime, string ToDatetime, string Custid, string status,string Submit)
         {
-           string PfCode = Session["PFCode"].ToString();
+           string PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             DateTime? fromdate = null;
             DateTime? todate = null;
@@ -1750,7 +1750,7 @@ namespace DtDc_Billing.Controllers
         [HttpPost]
         public ActionResult TaxReport(string ToDatetime, string Fromdatetime, string Custid,string Submit, string Tallyexcel)
         {
-            string strpf = Session["PFCode"].ToString();
+            string strpf = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             string[] formats = {"dd/MM/yyyy", "dd-MMM-yyyy", "yyyy-MM-dd",
                    "dd-MM-yyyy", "M/d/yyyy", "dd MMM yyyy"};

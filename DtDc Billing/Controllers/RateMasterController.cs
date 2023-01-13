@@ -22,7 +22,7 @@ namespace DtDc_Billing.Controllers
         // GET: RateMaster
         public ActionResult Index(string id)
         {
-            string strpfcode = Session["PFCode"].ToString();
+            string strpfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
             //var CompanyId= TempData.Peek("CompanyId").ToString();
             ViewBag.companyid = Server.UrlDecode(Request.Url.Segments[3]);
             id = id.Replace("__", "&").Replace("xdotx", "."); ;
@@ -117,10 +117,10 @@ namespace DtDc_Billing.Controllers
             return View();
         }
 
-
+        [HttpGet]
         public ActionResult EditCompanyRateMaster()
         {
-            string strpfcode = Session["PFCode"].ToString();
+            string strpfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             var data = (from d in db.Companies
                         where d.Pf_code == strpfcode
@@ -188,7 +188,7 @@ namespace DtDc_Billing.Controllers
 
         public ActionResult AddCompany()
         {
-            ViewBag.Pf_code = Session["PFCode"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
+            ViewBag.Pf_code = Request.Cookies["Cookies"]["AdminValue"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
 
 
             List<SelectListItem> items = new List<SelectListItem>();
@@ -207,8 +207,8 @@ namespace DtDc_Billing.Controllers
         [HandleError]
         public ActionResult RatemasterCompany(CompanyModel empmodel, float[] slab1arr, float[] slab2arr, float[] slab3arr, float[] slab4arr, float[] Upto, int[] Sector_Id, int? only, string selected_tab)
         {
-            string strpfcode = Session["PFCode"].ToString();
-            //string Pf_code = Session["PFCode"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
+            string strpfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
+            //string Pf_code = Request.Cookies["Cookies"]["AdminValue"].ToString();//new SelectList(db.Franchisees, "PF_Code", "PF_Code");
 
             ViewBag.sr = db.Sectors.ToList();
 
@@ -1452,8 +1452,10 @@ namespace DtDc_Billing.Controllers
                    
                  }).ToList();
 
-
                 string Pfcode = company.Pf_code;
+
+                var logo = db.Franchisees.Where(m => m.PF_Code == Pfcode).FirstOrDefault();
+
 
                 var dataset = db.Franchisees.Where(m => m.PF_Code == Pfcode).ToList();
                 var dataset1 = db.Companies.Where(m => m.Company_Id == CompanyId).ToList();
@@ -1464,6 +1466,10 @@ namespace DtDc_Billing.Controllers
                 {
                     lr.ReportPath = path;
                 }
+
+                lr.Refresh();
+
+                lr.EnableExternalImages = true;
 
                 ReportDataSource rd = new ReportDataSource("DataSet", dataset);
                 ReportDataSource rd1 = new ReportDataSource("DataSet1", dataset1);
@@ -1476,7 +1482,19 @@ namespace DtDc_Billing.Controllers
                 ReportDataSource rd8 = new ReportDataSource("DataSet8", DataSet8);
                 ReportDataSource rd9 = new ReportDataSource("DataSet9", DataSet9);
 
+                if (logo.LogoFilePath == null)
+                {
+                    ReportParameter rp = new ReportParameter("img_logo",Server.MapPath("~/goeasy.png"));
+                    lr.SetParameters(rp);
+                }
+                else
+                { 
+                  ReportParameter rp = new ReportParameter("img_logo",logo.LogoFilePath);
+                  lr.SetParameters(rp);
+                }
+                
 
+                lr.Refresh();
 
                 lr.DataSources.Add(rd);
                 lr.DataSources.Add(rd1);
