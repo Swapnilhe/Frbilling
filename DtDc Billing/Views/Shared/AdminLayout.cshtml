@@ -74,7 +74,7 @@
     text-align: center;
 ">
 
-                    <img src="~/assets/images/goeasy.png" style=" width: 63%; height: auto;">
+                    <img src="~/assets/images/goeasy.png" style=" width: 126px; height: auto;">
 
 
                 </div>
@@ -179,7 +179,7 @@
                         <!-- User Account Menu -->
 
                         <li class="logincss">
-                            <a <span>PFCode :</span> <i aria-hidden="true"></i><span>@Session["PFCode"].ToString() </span> </a>
+                            <a <span>PFCode :</span> <i aria-hidden="true"></i><span>@Request.Cookies["Cookies"]["UserValue"].ToString() </span> </a>
                         </li>
 
                         <li class="dropdown user user-menu">
