@@ -3121,3 +3121,9 @@ D:\DTDCPro\DTDC\DtDc Billing\bin\System.Drawing.Common.xml
 D:\DTDCPro\DTDC\DtDc Billing\bin\System.Text.Encoding.CodePages.xml
 D:\DTDCPro\DTDC\DtDc Billing\bin\Spire.Barcode.dll
 D:\DTDCPro\DTDC\DtDc Billing\bin\Spire.Barcode.xml
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\DtDc Billing.csprojAssemblyReference.cache
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\RdlCompile.cache
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\RdlCompile.compiled
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\DtDc Billing.csproj.CoreCompileInputs.cache
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\DtDc Billing.dll
+D:\PRAJKTA_LIVE\LetestPrajkta\FrBillingMain\Frbilling\DtDc Billing\obj\Debug\DtDc Billing.pdb
