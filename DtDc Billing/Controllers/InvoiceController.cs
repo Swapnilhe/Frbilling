@@ -2273,7 +2273,7 @@ Select(e => new
 
                     string invdate = DateTime.ParseExact(invoice.tempInvoicedate, formats, CultureInfo.InvariantCulture, DateTimeStyles.None).ToString("MM/dd/yyyy");
 
-                    double netAmt = Convert.ToDouble(inv.netamount);
+                    double netAmt = Convert.ToDouble(invoice.netamount);
 
                     invoice.periodfrom = Convert.ToDateTime(bdatefrom);
                     invoice.periodto = Convert.ToDateTime(bdateto);
@@ -2922,7 +2922,7 @@ Select(e => new
 
             string companyname = db.Companies.Where(m => m.Company_Id == invoice.Customer_Id).Select(m => m.Company_Id).FirstOrDefault().ToString();
 
-            string savePath = "http://codetentacles-005-site1.htempurl.com/PDF/" + invoice.invoiceno.Replace("/", "-")+ ".pdf";
+            string savePath = "http://frbilling.com/PDF/" + invoice.invoiceno.Replace("/", "-")+ ".pdf";
 
             return Redirect(savePath);
 

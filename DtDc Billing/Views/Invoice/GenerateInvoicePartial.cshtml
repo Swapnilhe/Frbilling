@@ -988,7 +988,7 @@ $("#Customer_Id").autocomplete({
 
     //window.open('/Invoice/ReportPrinterMethod?report=reportview&myParameter=' + myParamether, 'ReportView', '');
         $.get("/Invoice/SavepdInvoice", { myParameter: myParamether }, function (data) {
-            $('#saveinv').attr('href', "http://codetentacles-005-site1.htempurl.com/PDF/" + data);
+            $('#saveinv').attr('href', "http://frbilling.com/PDF/" + data);
 
             document.getElementById('saveinv').click();
             $("#overlayBlock").hide();
