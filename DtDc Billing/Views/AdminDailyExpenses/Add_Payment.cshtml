@@ -16,7 +16,7 @@
     <!-- Main content -->
     <section class="content">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 @using (Html.BeginForm())
                 {
                     @Html.AntiForgeryToken()
@@ -27,34 +27,46 @@
                         </div>
                         <!-- /.box-header -->
                         <!-- form start -->
-                        <div class="form-horizontal">
+                        <div class="form-horizontal" style="margin-top:10px" >
                             <div class="box-body">
                                 <div class="form-group">
-                                    <label for="inputEmail3" class="col-sm-2">Consignment</label>
-                                    <div class="col-sm-10">
-                                        @Html.EditorFor(model => model.Consignment_No, new { htmlAttributes = new { @class = "form-control", placeholder = "Consignment No" } })
-                                        @Html.ValidationMessageFor(model => model.Consignment_No, "", new { @class = "text-danger" })
+                                    <div class="row" >
+                                        <div class="col-md-4">
+                                            <label for="inputEmail3" class="col-sm-2">Consignment</label>
+                                            <div class="col-sm-10">
+                                                @Html.EditorFor(model => model.Consignment_No, new { htmlAttributes = new { @class = "form-control", placeholder = "Consignment No" } })
+                                                @Html.ValidationMessageFor(model => model.Consignment_No, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <label for="inputPassword3" class="col-sm-2">Amount</label>
+                                            <div class="col-sm-10">
+                                                @Html.EditorFor(model => model.amount, new { htmlAttributes = new { @class = "form-control", placeholder = "Amount" } })
+                                                @Html.ValidationMessageFor(model => model.amount, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            
+                                                <label for="inputEmail3" class="col-sm-3">Description</label>
+                                                <div class="col-sm-9">
+                                                    @Html.TextAreaFor(model => model.Description_, new { htmlAttributes = new { @class = "form-control", placeholder = "Description", rows = "5" } })
+                                                    @Html.ValidationMessageFor(model => model.Description_, "", new { @class = "text-danger" })
+                                                </div>
+                                           
+                                        </div>
+                                        <div class="col-md-1">
+                                            <div class="box-footer">
+                                                <input type="submit" class="btn btn-primary pull-right" value="Add" />
+                                            </div>
+                                        </div>
                                     </div>
+                                    
                                 </div>
-                                <div class="form-group">
-                                    <label for="inputPassword3" class="col-sm-2">Amount</label>
-                                    <div class="col-sm-10">
-                                        @Html.EditorFor(model => model.amount, new { htmlAttributes = new { @class = "form-control", placeholder = "Amount" } })
-                                        @Html.ValidationMessageFor(model => model.amount, "", new { @class = "text-danger" })
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputEmail3" class="col-sm-2">Description</label>
-                                    <div class="col-sm-10">
-                                        @Html.TextAreaFor(model => model.Description_, new { htmlAttributes = new { @class = "form-control", placeholder = "Description", rows = "5" } })
-                                        @Html.ValidationMessageFor(model => model.Description_, "", new { @class = "text-danger" })
-                                    </div>
-                                </div>
+                               
+                                
                             </div>
                             <!-- /.box-body -->
-                            <div class="box-footer">
-                                <input type="submit" class="btn btn-primary pull-right" value="Add" />
-                            </div>
+                            
                         </div>
                         <!-- /.box-footer -->
 
@@ -215,9 +227,5 @@
     });
 </script>
 
-<script>
-    $(document).ready(function () {
-        $('[data-toggle="tooltip"]').tooltip();
-        $('body').addClass("sidebar-mini sidebar-collapse");
-    });
-</script>
+
+

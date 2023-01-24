@@ -302,9 +302,7 @@ titlnew {
 
 
 @media(max-width:767px) {
-    .content {
-        margin-top: 125px !important;
-    }
+   
 
     .main-sidebar {
         top: 135px !important;
