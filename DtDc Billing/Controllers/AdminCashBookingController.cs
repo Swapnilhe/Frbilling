@@ -385,7 +385,8 @@ namespace DtDc_Billing.Controllers
             var Recieptdetails = db.Receipt_details.Where(m => m.Consignment_No == id);//.ToList();
 
             //string companyname = db.Companies.Where(m => m.Company_Id == invoice.Customer_Id).Select(m => m.Company_Id).FirstOrDefault().ToString();
-            string savePath = Server.MapPath("~/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No.Replace("/", "-") + ".pdf");
+            //string savePath = Server.MapPath("~/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No.Replace("/", "-") + ".pdf");
+            string savePath = "http://frbilling.com/ConsignmentPDF/" + "Recieptdetails-" + Recieptdetails.FirstOrDefault().Consignment_No.Replace("/", "-") + ".pdf";
 
             //string savePath = "http://admin.infantjesussolutions.in/PDF/" + invoice.Firm_Id + "-" + invoice.invoiceno.Replace("/", "-") + ".pdf";
 
@@ -559,7 +560,7 @@ Select(e => new
         {
             double? DoxNonDoxAmt = 10;
 
-            string pfcode = Session["pfCode"].ToString();
+            string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             List<JsonArrayCalc> jsonarray = new List<JsonArrayCalc>();
 
@@ -1595,7 +1596,7 @@ Select(e => new
             }
             else if (ModelState.IsValid)
             {
-                reciept_Details.Pf_Code = Session["pfCode"].ToString();
+                reciept_Details.Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 reciept_Details.User_Id = Convert.ToInt64(Session["EmpId"]);
 
                 if (texens == "true")
@@ -1677,7 +1678,7 @@ Select(e => new
 
         public ActionResult callapi(string phno, string consinmentno, float? amount, string Destination)
         {
-            string pfcode = Session["pfCode"].ToString();
+            string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
             Franchisee branchname = db.Franchisees.Where(m => m.PF_Code == pfcode).FirstOrDefault();
 
 
@@ -1717,7 +1718,7 @@ Select(e => new
 
         public ActionResult MemberShip(string phno)
         {
-            string pfcode = Session["pfCode"].ToString();
+            string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
             Franchisee branchname = db.Franchisees.Where(m => m.PF_Code == pfcode).FirstOrDefault();
 
 
@@ -1918,7 +1919,7 @@ Select(e => new
             if (ModelState.IsValid)
             {
 
-                reciept_Details.Pf_Code = Session["pfCode"].ToString();
+                reciept_Details.Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
                 reciept_Details.User_Id = Convert.ToInt64(Session["EmpId"]);
 
 

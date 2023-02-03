@@ -1730,7 +1730,7 @@ Select(e => new
         public string SavepdInvoice(string myParameter)
         {
             {
-                string Pf_Code = Session["pfCode"].ToString();
+                string Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString(); ;
 
                 LocalReport lr = new LocalReport();
 
@@ -2706,7 +2706,7 @@ Select(e => new
         public string SavesinglepdInvoice(string myParameter)
         {
             {
-                string Pf_Code = Session["pfCode"].ToString();
+                string Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
                 LocalReport lr = new LocalReport();
 
@@ -2916,7 +2916,7 @@ Select(e => new
 
         public ActionResult Download(long id)
         {
-            string PfCode = Session["pfCode"].ToString();
+            string PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             var invoice = db.Invoices.Where(m => m.IN_Id == id && m.Pfcode==PfCode).FirstOrDefault();
 

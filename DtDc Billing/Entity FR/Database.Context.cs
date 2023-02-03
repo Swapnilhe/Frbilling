@@ -193,15 +193,6 @@ namespace DtDc_Billing.Entity_FR
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<destinationCount_Result>("destinationCount", pfcodeParameter);
         }
     
-        public virtual ObjectResult<getReceiptDetails_Result> getReceiptDetails(string pfcode)
-        {
-            var pfcodeParameter = pfcode != null ?
-                new ObjectParameter("pfcode", pfcode) :
-                new ObjectParameter("pfcode", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<getReceiptDetails_Result>("getReceiptDetails", pfcodeParameter);
-        }
-    
         public virtual ObjectResult<getPaymentTrackCash_Result> getPaymentTrackCash(Nullable<System.DateTime> fromDate, Nullable<System.DateTime> toDate, string companyName, string pfcode)
         {
             var fromDateParameter = fromDate.HasValue ?
@@ -588,6 +579,15 @@ namespace DtDc_Billing.Entity_FR
                 new ObjectParameter("Pfcode", typeof(string));
     
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<dashboardData_Result>("dashboardData", currentDateParameter, pfcodeParameter);
+        }
+    
+        public virtual ObjectResult<getReceiptDetails_Result> getReceiptDetails(string pfcode)
+        {
+            var pfcodeParameter = pfcode != null ?
+                new ObjectParameter("pfcode", pfcode) :
+                new ObjectParameter("pfcode", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<getReceiptDetails_Result>("getReceiptDetails", pfcodeParameter);
         }
     }
 }

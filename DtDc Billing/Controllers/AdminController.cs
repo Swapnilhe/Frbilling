@@ -2288,8 +2288,8 @@ namespace DtDc_Billing.Controllers
             var r = new Regex(@"([a-zA-Z0-9\s_\\.\-:])+(.png|.jpg|.gif)$");
             if (!r.IsMatch(logo.file.FileName))
             {
-                ModelState.AddModelError("file", "Only Image files allowed.");
-                TempData["Success"] = "Only Image files allowed!";
+               // ModelState.AddModelError("fileerr", "Only Image files allowed.");
+               TempData["Success1"] = "Only Image files allowed!";
             }
            else
             {
@@ -2300,7 +2300,8 @@ namespace DtDc_Billing.Controllers
                 if (logo.file.ContentLength > 0)
                 {
                     _FileName = Path.GetFileName(logo.file.FileName);
-                    _path = "frbilling.com/UploadedLogo/" + _FileName;
+                    _path = Server.MapPath("~/UploadedLogo/" + _FileName);
+                    
                     logo.file.SaveAs(_path);
                 }
               
@@ -2309,15 +2310,16 @@ namespace DtDc_Billing.Controllers
                           select d).FirstOrDefault();
 
                
-                lo.LogoFilePath = _path;
+                lo.LogoFilePath = _FileName;
 
                 db.Entry(lo).State = EntityState.Modified;
                 db.SaveChanges();
 
-                TempData["Success"] = "Logo Added Successfully!";
+                TempData["Success1"] = "Logo Added Successfully!";
                 return RedirectToAction("Franchiseelist");
             }
 
+            //return View("AddLogo", logo);
             return RedirectToAction("Franchiseelist");
             //return PartialView(logo);
 
@@ -2571,7 +2573,7 @@ namespace DtDc_Billing.Controllers
 
         public ActionResult ExpensesList(string ToDatetime, string Fromdatetime)
         {
-            ViewBag.Pf_Code = Session["pfCode"].ToString();//new SelectList(db.Franchisees, "Pf_Code", "Pf_Code");
+            ViewBag.Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();//new SelectList(db.Franchisees, "Pf_Code", "Pf_Code");
 
 
             var Cat = new List<SelectListItem>
@@ -2622,7 +2624,7 @@ namespace DtDc_Billing.Controllers
         {
             ViewBag.Fromdatetime = Fromdatetime;
             ViewBag.ToDatetime = ToDatetime;
-            Pf_Code = Session["pfCode"].ToString();
+            Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();
             ViewBag.Pf_Code = Pf_Code; //new SelectList(db.Franchisees, "Pf_Code", "Pf_Code");
 
 
@@ -2692,7 +2694,44 @@ namespace DtDc_Billing.Controllers
         public ActionResult EditExpenses(long? id)
         {
 
-            ViewBag.Pf_Code = Session["pfCode"].ToString();//new SelectList(db.Franchisees, "Pf_Code", "Pf_Code");
+            ViewBag.Pf_Code = Request.Cookies["Cookies"]["AdminValue"].ToString();//new SelectList(db.Franchisees, "Pf_Code", "Pf_Code");
+
+       
+            List<SelectListItem> expe = new List<SelectListItem>(); 
+
+
+            expe.Add(new SelectListItem { Text = "Select", Value = "" });
+            expe.Add(new SelectListItem { Text = "Load Connecting exp 1st and 2nd", Value = "Load Connecting exp 1st and 2nd" });
+            expe.Add(new SelectListItem { Text = "Load connecting exp - Night load", Value = "Load connecting exp - Night load" });
+            expe.Add(new SelectListItem { Text = "Pick up expenses", Value = "Pick up expenses" });
+            expe.Add(new SelectListItem { Text = "Patpedhi Deposit", Value = "Patpedhi Deposit" });
+            expe.Add(new SelectListItem { Text = "Salary Advance", Value = "Salary Advance" });
+            expe.Add(new SelectListItem { Text = "Office Expenses", Value = "Office Expenses" });
+            expe.Add(new SelectListItem { Text = "Fuel Exp", Value = "Fuel Exp" });
+            expe.Add(new SelectListItem { Text = "Tea and refreshments exp", Value = "Tea and refreshments exp" });
+            expe.Add(new SelectListItem { Text = "Packing Expenses", Value = "Packing Expenses" });
+            expe.Add(new SelectListItem { Text = "Others", Value = "Others" });
+
+            var data = (from d in db.Expenses
+                        where d.Exp_ID == id
+                        select new { d.Category }).First();
+
+
+            foreach (var item in expe)
+            {
+
+                if (data.Category == item.Value)
+                {
+                    item.Selected = true;
+                }
+                else
+                {
+                    item.Selected = false;
+                }
+
+            }
+
+            ViewData["Category"] = expe;
 
             if (id == null)
             {

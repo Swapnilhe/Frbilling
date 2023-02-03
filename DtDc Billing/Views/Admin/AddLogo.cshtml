@@ -26,8 +26,8 @@
                             <label class="col-md-2 control-label">Upload logo</label>
                             <div class="col-md-5">
                                 <input type="file" name="file" id="file" class="form-control" />
-                                @Html.ValidationMessageFor(m => m.file, "", new { @class = "text-danger" })
-
+                                @*@Html.ValidationMessageFor(m => m.file, "", new { @class = "text-danger" })*@
+                                @Html.ValidationMessage("fileerr")
                             </div>
                         </div>
                         @*<div class="form-group">
@@ -65,7 +65,7 @@
 
         $(document).ready(function () {
 
-            var data = '@TempData["Success"]';
+            var data = '@TempData["Success1"]';
 
             if (data != null && data!="")
             {

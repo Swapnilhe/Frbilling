@@ -1162,7 +1162,7 @@ namespace DtDc_Billing.Controllers
 
         public ActionResult Destinations()
         {
-            string pfcode = Session["pfCode"].ToString();
+            string pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             if (TempData["ViewData"] != null)
             {

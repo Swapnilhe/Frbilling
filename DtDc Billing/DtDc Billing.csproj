@@ -663,6 +663,7 @@
     <Compile Include="Models\AddlogoModel.cs" />
     <Compile Include="Models\ImageTypes.cs" />
     <Compile Include="Models\EncodeTypes.cs" />
+    <Compile Include="Models\Receipt_DetailsModel.cs" />
     <Compile Include="Models\RegistrationModel.cs" />
     <Compile Include="Models\InWords.cs" />
     <Compile Include="Models\SendMsgModel.cs" />
@@ -670,7 +671,6 @@
     <Compile Include="Models\CashCounterSavingModel.cs" />
     <Compile Include="Models\ExpenseModel.cs" />
     <Compile Include="Models\CompanyModel.cs" />
-    <Compile Include="Models\Receipt_DetailsModel.cs" />
     <Compile Include="Models\StationaryIssueModel.cs" />
     <Compile Include="Models\StationaryModel.cs" />
     <Compile Include="Models\FranchiseeModel.cs" />
@@ -4142,7 +4142,6 @@
     <Content Include="Views\AdminDailyExpenses\Add_Expenses.cshtml" />
     <Content Include="Views\AdminDailyExpenses\Add_Payment.cshtml" />
     <Content Include="Views\AdminDailyExpenses\Add_Saving.cshtml" />
-    <Content Include="Views\AdminCashBooking\Printreceipt.cshtml" />
     <Content Include="Views\Shared\AdminCashCounterLayout.cshtml" />
     <Content Include="Views\ExceptionLogging\SendErrorToText.cshtml" />
     <Content Include="Views\Admin\AdminLogin.cshtml" />
@@ -4156,6 +4155,8 @@
     <Content Include="Views\Home\DestinationAndProductPartial.cshtml" />
     <Content Include="Views\Home\Jschart.cshtml" />
     <Content Include="Views\Home\JschartforCashcounter.cshtml" />
+    <Content Include="Views\AdminCashBooking\Printreceipt.cshtml" />
+    <Content Include="Views\Admin\AddLogo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

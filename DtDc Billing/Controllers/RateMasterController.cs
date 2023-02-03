@@ -14,7 +14,7 @@ namespace DtDc_Billing.Controllers
 {
     [SessionAdmin]
     [SessionUserModule]
-    [OutputCache(CacheProfile = "Cachefast")]
+    //[OutputCache(CacheProfile = "Cachefast")]
     public class RateMasterController : Controller
     {
         private db_a71c08_elitetokenEntities db = new db_a71c08_elitetokenEntities();
@@ -60,8 +60,8 @@ namespace DtDc_Billing.Controllers
             Comp.V_Docket = company.V_Docket;
             Comp.I_Docket = company.I_Docket;
             Comp.N_Docket = company.N_Docket;
-            Comp.Password = company.Password;
-            Comp.Username = company.Username;
+            //Comp.Password = company.Password;
+           //Comp.Username = company.Username;
             Comp.G_Docket = company.G_Docket;
 
 
@@ -255,8 +255,8 @@ namespace DtDc_Billing.Controllers
                 comp.V_Docket = empmodel.V_Docket;
                 comp.I_Docket = empmodel.I_Docket;
                 comp.N_Docket = empmodel.N_Docket;
-                comp.Password = empmodel.Password;
-                comp.Username = empmodel.Username;
+                //comp.Password = empmodel.Password;
+                //comp.Username = empmodel.Username;
                 comp.G_Docket = empmodel.G_Docket;
 
                 ViewBag.Message = "Sucess or Failure Message";
@@ -569,8 +569,8 @@ namespace DtDc_Billing.Controllers
                 comp.V_Docket = empmodel.V_Docket;
                 comp.I_Docket = empmodel.I_Docket;
                 comp.N_Docket = empmodel.N_Docket;
-                comp.Password = empmodel.Password;
-                comp.Username = empmodel.Username;
+                //comp.Password = empmodel.Password;
+                //comp.Username = empmodel.Username;
                 comp.G_Docket = empmodel.G_Docket;
 
                 ViewBag.Message = "Sucess or Failure Message";
@@ -1484,12 +1484,12 @@ namespace DtDc_Billing.Controllers
 
                 if (logo.LogoFilePath == null)
                 {
-                    ReportParameter rp = new ReportParameter("img_logo",Server.MapPath("~/goeasy.png"));
+                    ReportParameter rp = new ReportParameter("img_logo",Server.MapPath("~/UploadedLogo/goeasy.png"));
                     lr.SetParameters(rp);
                 }
                 else
                 { 
-                  ReportParameter rp = new ReportParameter("img_logo",logo.LogoFilePath);
+                  ReportParameter rp = new ReportParameter("img_logo", Server.MapPath("~/UploadedLogo") + logo.LogoFilePath);
                   lr.SetParameters(rp);
                 }
                 

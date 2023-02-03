@@ -74,8 +74,8 @@
                                             </div>
 
                                             <div class="col-md-3">
-                                                <input type="submit" value="Export to Excel" name="Submit" class="btn btn-success pull-right" />
-                                                <input type="submit" value="Tally excel" name="Tallyexcel" class="btn btn-warning pull-right" />
+                                                <input type="submit" value="Export to Excel" name="Submit" class="btn btn-success pull-right sbmt" />
+                                                <input type="submit" value="Tally excel" name="Tallyexcel" class="btn btn-warning pull-right sbmt" />
                                             </div>
 
                                         }
@@ -223,7 +223,7 @@
     </section>
 </div>
 
-    <script>
+<script>
 
     /////Sender Autocomplete
     $(function () {
@@ -280,12 +280,34 @@
         format: 'dd-mm-yyyy'
     })
 
-    </script>
+</script>
 
 <style>
     #table_display_block {
-      
         overflow-x: auto !important;
     }
 </style>
-   
+
+<script>
+    $(document).ready(function () {
+        $('.sbmt').click(function () {
+            var frmdate = $('#datepicker').val();
+
+            var todate = $('#datepicker1').val();
+
+            if (frmdate == "") {
+                alert("Please Enter Start Date");
+                return false;
+            }
+            else if (todate == "") {
+                alert("Please Enter End Date");
+                return false;
+            }
+            else {
+                return true;
+            }
+
+        });
+
+    });
+</script>

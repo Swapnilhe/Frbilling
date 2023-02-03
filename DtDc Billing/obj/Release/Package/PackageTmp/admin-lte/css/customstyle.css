@@ -110,7 +110,7 @@ table#formpaytble tr:nth-child(even) {
 
 .table > thead:first-child > tr:first-child > th {
     border-top: 0;
-    background: linear-gradient(to bottom, #fdfdfd 0%, #ececec 100%);
+    background: linear-gradient(to bottom, #e5ecf7 0%, #e5ecf7 100%) !important;
     font-size: 13px;
     text-transform: capitalize;
 }
@@ -151,7 +151,7 @@ label {
 
 .table > tbody > tr > th {
     border-top: 0;
-    background: linear-gradient(to bottom, #fdfdfd 0%, #ececec 100%);
+    background: linear-gradient(to bottom, #e5ecf7 0%, #e5ecf7 100%) !important;
     font-size: 13px;
     text-transform: capitalize;
 }
@@ -302,9 +302,7 @@ titlnew {
 
 
 @media(max-width:767px) {
-    .content {
-        margin-top: 125px !important;
-    }
+   
 
     .main-sidebar {
         top: 135px !important;

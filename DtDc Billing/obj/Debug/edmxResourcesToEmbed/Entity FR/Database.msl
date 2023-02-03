@@ -1014,23 +1014,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <FunctionImportMapping FunctionImportName="getReceiptDetails" FunctionName="db_a71c08_elitetokenModel.Store.getReceiptDetails">
-      <ResultMapping>
-        <ComplexTypeMapping TypeName="db_a71c08_elitetokenModel.getReceiptDetails_Result">
-          <ScalarProperty Name="Consignment_No" ColumnName="Consignment_No" />
-          <ScalarProperty Name="Destination" ColumnName="Destination" />
-          <ScalarProperty Name="sender_phone" ColumnName="sender_phone" />
-          <ScalarProperty Name="SenderCity" ColumnName="SenderCity" />
-          <ScalarProperty Name="SenderPincode" ColumnName="SenderPincode" />
-          <ScalarProperty Name="Reciepents_phone" ColumnName="Reciepents_phone" />
-          <ScalarProperty Name="Reciepents" ColumnName="Reciepents" />
-          <ScalarProperty Name="Pf_Code" ColumnName="Pf_Code" />
-          <ScalarProperty Name="ReciepentsPincode" ColumnName="ReciepentsPincode" />
-          <ScalarProperty Name="Charges_Total" ColumnName="Charges_Total" />
-          <ScalarProperty Name="Datetime_Cons" ColumnName="Datetime_Cons" />
-        </ComplexTypeMapping>
-      </ResultMapping>
-    </FunctionImportMapping>
     <FunctionImportMapping FunctionImportName="getPaymentTrackCash" FunctionName="db_a71c08_elitetokenModel.Store.getPaymentTrackCash">
       <ResultMapping>
         <ComplexTypeMapping TypeName="db_a71c08_elitetokenModel.getPaymentTrackCash_Result">
@@ -1345,5 +1328,23 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="getReceiptDetails" FunctionName="db_a71c08_elitetokenModel.Store.getReceiptDetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="db_a71c08_elitetokenModel.getReceiptDetails_Result">
+          <ScalarProperty Name="Consignment_No" ColumnName="Consignment_No" />
+          <ScalarProperty Name="Destination" ColumnName="Destination" />
+          <ScalarProperty Name="sender_phone" ColumnName="sender_phone" />
+          <ScalarProperty Name="SenderCity" ColumnName="SenderCity" />
+          <ScalarProperty Name="SenderPincode" ColumnName="SenderPincode" />
+          <ScalarProperty Name="Reciepents_phone" ColumnName="Reciepents_phone" />
+          <ScalarProperty Name="Reciepents" ColumnName="Reciepents" />
+          <ScalarProperty Name="Pf_Code" ColumnName="Pf_Code" />
+          <ScalarProperty Name="ReciepentsPincode" ColumnName="ReciepentsPincode" />
+          <ScalarProperty Name="Charges_Total" ColumnName="Charges_Total" />
+          <ScalarProperty Name="Datetime_Cons" ColumnName="Datetime_Cons" />
+          <ScalarProperty Name="Paid_Amount" ColumnName="Paid_Amount" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
   </EntityContainerMapping>
 </Mapping>

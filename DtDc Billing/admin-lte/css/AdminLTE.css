@@ -6045,9 +6045,10 @@ table.text-center th {
 }
 
 .height-450 {
-    height: 229px;
+    height: 500px;
     display: inline-table;
     text-align: center;
+     overflow: auto;
 }
 
 .total-label {

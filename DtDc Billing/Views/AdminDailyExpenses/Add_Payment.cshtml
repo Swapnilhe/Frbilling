@@ -2,78 +2,75 @@
 
 @{
     ViewBag.Title = "Add_Payment";
-    Layout = "~/Views/Shared/AdminCashCounterLayout.cshtml";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
 }
 
 
 
-<link href="/admin-lte/plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" />
+@*<link href="/admin-lte/plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" />*@
 
 
 
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <!-- Main content -->
-    <section class="content">
-        <div class="row">
-            <div class="col-md-12">
-                @using (Html.BeginForm())
-                {
-                    @Html.AntiForgeryToken()
-                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <!-- Main content -->@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <!-- Main content -->
+        <section class="content">
+            <div class="row">
+                <div class="col-md-12">
                     <div class="box box-info">
                         <div class="box-header with-border">
                             <h3 class="box-title">Add Payment</h3>
                         </div>
                         <!-- /.box-header -->
                         <!-- form start -->
-                        <div class="form-horizontal" style="margin-top:10px" >
+                        <div class="form-horizontal" style="margin-top:10px">
                             <div class="box-body">
                                 <div class="form-group">
-                                    <div class="row" >
-                                        <div class="col-md-4">
-                                            <label for="inputEmail3" class="col-sm-2">Consignment</label>
-                                            <div class="col-sm-10">
-                                                @Html.EditorFor(model => model.Consignment_No, new { htmlAttributes = new { @class = "form-control", placeholder = "Consignment No" } })
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <label for="inputEmail3" class="">Consignment_No<span class="Reqired">*</span></label>
+                                            <div class="">
+                                                @Html.EditorFor(model => model.Consignment_No, new { htmlAttributes = new { @class = "form-control input-sm", placeholder = "Enter Consignment_No" } })
                                                 @Html.ValidationMessageFor(model => model.Consignment_No, "", new { @class = "text-danger" })
                                             </div>
                                         </div>
                                         <div class="col-md-3">
-                                            <label for="inputPassword3" class="col-sm-2">Amount</label>
-                                            <div class="col-sm-10">
-                                                @Html.EditorFor(model => model.amount, new { htmlAttributes = new { @class = "form-control", placeholder = "Amount" } })
+                                            <label for="inputEmail3" class="">amount<span class="Reqired">*</span></label>
+                                            <div class="">
+                                                @Html.EditorFor(model => model.amount, new { htmlAttributes = new { @class = "form-control input-sm", placeholder = "Enter amount" } })
                                                 @Html.ValidationMessageFor(model => model.amount, "", new { @class = "text-danger" })
                                             </div>
                                         </div>
                                         <div class="col-md-3">
-                                            
-                                                <label for="inputEmail3" class="col-sm-3">Description</label>
-                                                <div class="col-sm-9">
-                                                    @Html.TextAreaFor(model => model.Description_, new { htmlAttributes = new { @class = "form-control", placeholder = "Description", rows = "5" } })
-                                                    @Html.ValidationMessageFor(model => model.Description_, "", new { @class = "text-danger" })
-                                                </div>
-                                           
+                                            <label for="inputPassword3" class="">Description_<span class="Reqired">*</span></label>
+                                            <div class="">
+                                                @Html.TextAreaFor(model => model.Description_, new { htmlAttributes = new { @class = "form-control", placeholder = "Description", rows = "5" } })
+                                                @Html.ValidationMessageFor(model => model.Description_, "", new { @class = "text-danger" })
+                                            </div>
                                         </div>
                                         <div class="col-md-1">
                                             <div class="box-footer">
-                                                <input type="submit" class="btn btn-primary pull-right" value="Add" />
+                                                <input type="submit" class="btn btn-primary pull-right btn-sm" value="Add" />
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
-                               
-                                
+
                             </div>
                             <!-- /.box-body -->
-                            
+                            <!-- /.box-footer -->
                         </div>
-                        <!-- /.box-footer -->
-
                     </div>
-                }
+                </div>
             </div>
-        </div>
+        </section>
+    }
+    <section class="content">   
         <!-- Row -->
         <div class="row">
             <div class="col-xs-12">
@@ -121,7 +118,7 @@
                                     </th>
                                     <th>
                                         Charge total
-                                        </th>
+                                    </th>
                                     <th>
                                         Paid Amount
                                     </th>
@@ -131,7 +128,6 @@
                                 </tr>
                             </thead>
                             <tbody>
-
                             </tbody>
 
                         </table>
@@ -229,3 +225,8 @@
 
 
 
+<style>
+    .Reqired {
+        color: red;
+    }
+</style>

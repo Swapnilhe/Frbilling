@@ -20,10 +20,10 @@
         <!--<input type="text" class="form-control total-amount" value="@Model.complaintCount">
             </div>
         </div>-->
-        @{
+        @*@{
 
             Html.RenderPartial("NotificationPartial");
-        }
+        }*@
 
         <div class="row">
             <div class="col-md-12">
@@ -376,7 +376,7 @@
 
                                         <div class="info-box-content">
                                             <span class="info-box-text">Avg Sale per month</span>
-                                            <span class="info-box-number"> <strong>@Model.avgOfBillingSum</strong></span>
+                                            <span class="info-box-number"> <strong>@Model.avgOfBillingSum.ToString("##")</strong></span>
                                             
 
                                         </div>

@@ -1139,7 +1139,7 @@ Select(e => new
 
                             CalculateAmount ca = new CalculateAmount();
                             double? amt = 0;
-                            if (transaction.Pincode != null && transaction.Pincode != "NULL ")
+                            if (transaction.Pincode != null && transaction.Pincode != "NULL")
                                 amt = ca.CalulateAmt(transaction.Consignment_no, transaction.Customer_Id, transaction.Pincode, transaction.Mode, Convert.ToDouble(transaction.chargable_weight), transaction.Type_t);
 
                             transaction.Amount = amt;
@@ -1199,7 +1199,7 @@ Select(e => new
                             CalculateAmount ca = new CalculateAmount();
                             double? amt = 0;
                             if (transaction.Pincode != null && transaction.Pincode != "NULL ")
-                                amt = ca.CalulateAmt(transaction.Consignment_no, i.Customer_Id, transaction.Pincode, transaction.Mode, Convert.ToDouble(transaction.chargable_weight), transaction.Type_t);
+                                amt = ca.CalulateAmt(transaction.Consignment_no, transaction.Customer_Id, transaction.Pincode, transaction.Mode, Convert.ToDouble(transaction.chargable_weight), transaction.Type_t);
 
                             transaction.Amount = amt;
                             transaction.AdminEmp = 000;
@@ -1377,13 +1377,13 @@ Select(e => new
 
             //if (Session["UserType"] != null)
             //{
-                pfcode = Session["pfCode"].ToString();
+                pfcode = Request.Cookies["Cookies"]["AdminValue"].ToString();
             //}
             //else
             //{
             //     pfcode = Session["PfID"].ToString();
             //}
-           
+
 
             return View(db.Companies.Where(m => m.Pf_code == pfcode).ToList());
         }

@@ -40,11 +40,12 @@
         for (var i = 0; i < result.length; i++){
 
             //dps.push({ "x": new Date(result[i].year, result[i].month - 1).toLocaleString('en-us', { month: 'short', year: "numeric" }), "y": result[i].netamount });
-            dps.push({ "x": new Date(result[i].year, result[i].month - 1, result[i].day).toLocaleString('en-us', { day: 'numeric', month: 'short', year: "numeric" }), "y": result[i].netamount });
+            dps.push({ "x": new Date(result[i].year, result[i].month-1, result[i].day).toLocaleString('en-us', { day: 'numeric', month: 'short', year: "numeric" }), "y": result[i].netamount });
 
         }
 
-        console.log(dps);
+                    console.log(dps);
+                    console.log("");
                 var timeFormat = 'moment.ISO_8601';
                 var lineChart = document.getElementById('myChart').getContext('2d');
 
@@ -61,7 +62,7 @@
                                 //pointRadius: 5,
                                 //pointHoverRadius: 10,
                                 tension: 0.4,
-                                data: dps,
+                                data: dps
 
 
                             }
@@ -97,22 +98,23 @@
                         //    },
                         //},
                         scales: {
-                            xAxes: [{
-                                type: "time",
-                                time: {
-                                    displayFormats: {
+                            x: [{
+                                //type: "time",
+                                //time: {
+                                //    displayFormats: {
 
-                                       'day': 'MM DD',
-                                        'year': 'MM DD'
-                                    }
-                                },
+                                //       'day': 'MM DD',
+                                //        'year': 'MM DD'
+                                //    }
+                                //},
+
 
                                 scaleLabel: {
                                     display: true,
-                                    labelString: 'Date'
+                                    labelString: dps
                                 }
                             }],
-                            yAxes: [{
+                            y: [{
                                 scaleLabel: {
                                     display: true,
                                     labelString: 'Total Billed(₹)'

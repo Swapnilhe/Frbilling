@@ -232,7 +232,7 @@ namespace DtDc_Billing.Controllers
 
             dashboardDataModel obj = new dashboardDataModel();
 
-            obj.DestinationList = db.destinationCount(Session["pfCode"].ToString()).Select(x => new DestinationModel
+            obj.DestinationList = db.destinationCount(Request.Cookies["Cookies"]["AdminValue"].ToString()).Select(x => new DestinationModel
             {
                 City = x.Destination,
                 Count = x.DestCount ?? 0
@@ -243,7 +243,7 @@ namespace DtDc_Billing.Controllers
 
 
 
-            string PfCode = Session["pfCode"].ToString();
+            string PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             //List<ConsignmentCount> Consignmentcount = new List<ConsignmentCount>();
 
@@ -489,7 +489,7 @@ namespace DtDc_Billing.Controllers
 
         public ActionResult RenewalPanel()
         {
-            string PfCode = Session["pfCode"].ToString();
+            string PfCode = Request.Cookies["Cookies"]["AdminValue"].ToString();
 
             userDetailsModel user = new userDetailsModel();
 

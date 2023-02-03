@@ -1223,9 +1223,6 @@
       <End Role="FirmDetail" EntitySet="FirmDetails" />
       <End Role="Cheque" EntitySet="Cheques" />
     </AssociationSet>
-    <FunctionImport Name="getReceiptDetails" ReturnType="Collection(db_a71c08_elitetokenModel.getReceiptDetails_Result)">
-      <Parameter Name="pfcode" Mode="In" Type="String" />
-    </FunctionImport>
     <FunctionImport Name="getPaymentTrackCash" ReturnType="Collection(db_a71c08_elitetokenModel.getPaymentTrackCash_Result)">
       <Parameter Name="fromDate" Mode="In" Type="DateTime" />
       <Parameter Name="toDate" Mode="In" Type="DateTime" />
@@ -1392,6 +1389,9 @@
       <End Role="Franchisee" EntitySet="Franchisees" />
       <End Role="User" EntitySet="Users" />
     </AssociationSet>
+    <FunctionImport Name="getReceiptDetails" ReturnType="Collection(db_a71c08_elitetokenModel.getReceiptDetails_Result)">
+      <Parameter Name="pfcode" Mode="In" Type="String" />
+    </FunctionImport>
   </EntityContainer>
   <ComplexType Name="getNotification_Result">
     <Property Type="Int32" Name="N_ID" Nullable="false" />
@@ -1783,19 +1783,6 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <ComplexType Name="getReceiptDetails_Result">
-    <Property Type="String" Name="Consignment_No" Nullable="true" MaxLength="20" />
-    <Property Type="String" Name="Destination" Nullable="true" />
-    <Property Type="String" Name="sender_phone" Nullable="true" />
-    <Property Type="String" Name="SenderCity" Nullable="true" />
-    <Property Type="String" Name="SenderPincode" Nullable="true" MaxLength="50" />
-    <Property Type="String" Name="Reciepents_phone" Nullable="true" />
-    <Property Type="String" Name="Reciepents" Nullable="true" />
-    <Property Type="String" Name="Pf_Code" Nullable="true" MaxLength="20" />
-    <Property Type="String" Name="ReciepentsPincode" Nullable="true" MaxLength="50" />
-    <Property Type="Single" Name="Charges_Total" Nullable="true" />
-    <Property Type="DateTime" Name="Datetime_Cons" Nullable="true" Precision="23" />
-  </ComplexType>
   <ComplexType Name="getPaymentTrackCash_Result">
     <Property Type="Double" Name="Amount" Nullable="true" />
     <Property Type="String" Name="Invoiceno" Nullable="true" MaxLength="23" />
@@ -2223,4 +2210,18 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <ComplexType Name="getReceiptDetails_Result">
+    <Property Type="String" Name="Consignment_No" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="Destination" Nullable="true" />
+    <Property Type="String" Name="sender_phone" Nullable="true" />
+    <Property Type="String" Name="SenderCity" Nullable="true" />
+    <Property Type="String" Name="SenderPincode" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Reciepents_phone" Nullable="true" />
+    <Property Type="String" Name="Reciepents" Nullable="true" />
+    <Property Type="String" Name="Pf_Code" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="ReciepentsPincode" Nullable="true" MaxLength="50" />
+    <Property Type="Single" Name="Charges_Total" Nullable="true" />
+    <Property Type="DateTime" Name="Datetime_Cons" Nullable="true" Precision="23" />
+    <Property Type="Single" Name="Paid_Amount" Nullable="true" />
+  </ComplexType>
 </Schema>

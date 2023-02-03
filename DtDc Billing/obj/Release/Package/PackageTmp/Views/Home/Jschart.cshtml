@@ -40,7 +40,7 @@
         for (var i = 0; i < result.length; i++){
 
             //dps.push({ "x": new Date(result[i].year, result[i].month - 1).toLocaleString('en-us', { month: 'short', year: "numeric" }), "y": result[i].netamount });
-            dps.push({ "x": new Date(result[i].year, result[i].month - 1, result[i].day).toLocaleString('en-us', { day: 'numeric', month: 'short', year: "numeric" }), "y": result[i].netamount });
+            dps.push({ "x": new Date(result[i].year, result[i].month-1, result[i].day).toLocaleString('en-us', { day: 'numeric', month: 'short', year: "numeric" }), "y": result[i].netamount });
 
         }
 
